@@ -1,5 +1,10 @@
 [
     {
+        "name": "Endpoint",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
         "name": "resetFunc",
         "private": true
     }
